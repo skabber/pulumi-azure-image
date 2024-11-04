@@ -1,0 +1,7 @@
+Package: *
+Pin: origin https://packages.microsoft.com/repos/azure-cli
+Pin-Priority: 1
+
+Package: azure-cli
+Pin: origin https://packages.microsoft.com/repos/azure-cli
+Pin-Priority: 500
